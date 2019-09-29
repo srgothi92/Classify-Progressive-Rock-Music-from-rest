@@ -18,4 +18,4 @@ Academic project to classify progressive rock from non progressive rock.
 
 `Confusion Matrix on Test Set`
 
-Further details in Report.pdf
+Further details in [Progressive Rock From Rest.pdf](https://github.com/srgothi92/Classify-Progressive-Rock-Music-from-rest/blob/master/Pogressive%20Rock%20From%20Rest.pdf)
